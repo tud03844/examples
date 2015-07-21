@@ -1,3 +1,4 @@
 Updated: My magic number is actually 12
 
+My second magic number would be 8
 
