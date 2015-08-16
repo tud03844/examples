@@ -1,4 +1,6 @@
 Updated: Your magic number is 27 of course.
-My magic number is actually 000011.
+-My magic number is actually 000011.
+
+Text edited here for assignment #4
 
 
